@@ -1,0 +1,2 @@
+# Automated Invigilation Planning System
+ Rostering manpower around sets of constraints can be a laborious and time consuming task. This project successfully implements an automated approach. Originally written to roster teacher manpower to invigilate on exam days, this excel planning program could be generalised to roster human resource manpower for duty over a 10 day work cycle. Input the constraints and automate the planning process.
