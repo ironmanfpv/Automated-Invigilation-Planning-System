@@ -4,9 +4,11 @@
  This project successfully implements an automated approach. Originally written to roster teacher manpower to invigilate on exam days, this excel planning program could be generalised to roster human resource manpower for duty over a 10 day work cycle. Input the constraints and automate the planning process. The program was finalised and last upgraded in 2021.
 
 
-<img src= >
+<img src= https://github.com/ironmanfpv/Automated-Invigilation-Planning-System/blob/main/img/img0.jpg>
 
 # SETUP STEPS: # 
+
+<img src= https://github.com/ironmanfpv/Automated-Invigilation-Planning-System/blob/main/img/img1.jpg>
 
 ## A. Set up parameters ##
 
@@ -20,9 +22,7 @@
 7. Assuming manpower is to be split to 3 groups, allocate each member to a respective group. (Indicate on Column T,U,V a number, typically based on Column S number.)
 8. Save.
 
-
-<img src= >
-
+<img src= https://github.com/ironmanfpv/Automated-Invigilation-Planning-System/blob/main/img/img2.jpg >
 
 ## B. Set up Constraints 1 ##
 
@@ -32,19 +32,17 @@
 4. Repeat steps 1 to 3 for TTData2 if the work schedule is one that alternates weekly every fortnight. (2-week timetable)
 5. Save.
 
-
-<img src= >
+<img src= https://github.com/ironmanfpv/Automated-Invigilation-Planning-System/blob/main/img/img3.jpg>
 
 ## C. Set up Constraints 2 ##
 
 1. Click on Sec 1 Tab. This tab contains the roster for the level over 10 days.
 2. Insert the name of staff to exclude for the particular day due to unavailability (Column S).
-3. Key in the examination name, time period and coordinator for each day. (Column L, K and M).
+3. Key in the examination name, time period and coordinator for each day. (Column I, K and M).
 4. Repeat Step 3 for Sec 2, 3, 4 and 5 where necessary. Do this if many levels are having exam
 5. Step 4 can be adapted if many departments are having activities.
 6. Save
 
-<img src= >
 
 ## D. Generate ##
 
