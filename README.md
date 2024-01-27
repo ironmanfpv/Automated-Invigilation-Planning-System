@@ -71,7 +71,9 @@
 3. The optimised button is found at near column M and N.
 4. Click it to highlight all the optimised regions. The non-optimised regions will remain uncoloured after inspection.
 
-<img src = https://github.com/ironmanfpv/Automated-Invigilation-Planning-System/tree/main/demo>
+
+https://github.com/ironmanfpv/Automated-Invigilation-Planning-System/assets/25114439/635727bd-a426-439e-a191-595ec446422f
+
 
 ## F. Swapping ##
 
